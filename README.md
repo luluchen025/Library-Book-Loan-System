@@ -68,8 +68,10 @@ Add print logs such as:
 - "Student 7 is waiting for Book B"
 ------------------------------------------------------------------
 
-Program Output (Screenshot): 
+Sample Run Results (Screenshot): 
+
 <img width="390" height="536" alt="Screenshot 2025-10-16 at 11 42 55 PM" src="https://github.com/user-attachments/assets/5fb7bc48-b50c-491c-bdbd-82ed3c40c604" />
+
 
 
 
