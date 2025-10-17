@@ -1,6 +1,7 @@
 # Library-Book-Loan-System
 
 CIS 450 - Class activity 4
+
 Implementing a multi-threaded Library Book Loan System using POSIX threads (pthreads) in C
 
 Library Overview:
